@@ -2,8 +2,8 @@
 
 Currently working as a Google Cloud TSR
 
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonmarCorpuz) 
+Connect with me:
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonmarCorpuz) 
 
 # 💻 Tech Stack
 
