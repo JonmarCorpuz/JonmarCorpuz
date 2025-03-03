@@ -23,11 +23,6 @@ Jon is passionate about staying at the forefront of emerging threats and cutting
 | [LetsExfiltrate](https://github.com/JonmarCorpuz/LetsExfiltrate) | A central repository of educational tools that help you exfiltrate data from a compromised system |
 | [LetsEnumerate](https://github.com/JonmarCorpuz/LetsEnumerate) | A central repository containing various automated tools that help authorized security professionals perform digital reconnaissance |
   
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=JonmarCorpuz&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
