@@ -2,6 +2,8 @@
 
 Jon is passionate about staying at the forefront of emerging threats and cutting-edge technologies, and actively seeks opportunities to expand his knowledge and skill set. With a strong foundation in networking and cloud computing, and a drive for continuous learning through a growth mindset, he's committed to safeguarding digital environments, fortifying defenses against malicious actors, and contributing to society's cyber security and technology advancement.
 
+[![](https://visitcount.itsvg.in/api?id=JonmarCorpuz&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonmarCorpuz)
