@@ -1,6 +1,6 @@
 # About Me
 
-An aspiring DevOps engineer that's currently working as a Google Cloud TSR ☁️
+Jon is passionate about staying at the forefront of emerging threats and cutting-edge technologies, and actively seeks opportunities to expand his knowledge and skill set. With a strong foundation in networking and cloud computing, and a drive for continuous learning through a growth mindset, he's committed to safeguarding digital environments, fortifying defenses against malicious actors, and contributing to society's cyber security and technology advancement.
 
 # Socials
 
