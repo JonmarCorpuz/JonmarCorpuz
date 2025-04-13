@@ -6,7 +6,7 @@ Jon is passionate about staying at the forefront of emerging threats and cutting
 
 # Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JonmarCorpuz)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JonmarCorpuz)
 
 # Tech Stack
 
