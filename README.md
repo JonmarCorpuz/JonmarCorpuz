@@ -14,14 +14,7 @@ Jon is passionate about staying at the forefront of emerging threats and cutting
 
 # Projects
 
-| Project | Description |
-| --- | --- |
-| [Second Brain](https://github.com/JonmarCorpuz/LetsLearn/tree/main) | A central repository containing knowledge acquired through various academic pursuits, certifications, and technical projects |
-| [LetsDeploy](https://github.com/JonmarCorpuz/LetsDeploy) | A central repository of Terraform configuration files and interactive deployment scripts that are used to deploy various resources for different technologies and services |
-| [LetsCreate](https://github.com/JonmarCorpuz/LetsCreate) | A central repository containing scripts for easy resource deployment for various technology and services via SDKs and APIs |
-| [LetsTroubleshoot](https://github.com/JonmarCorpuz/LetsTroubleshoot) | A central repository to help troubleshoot various errors for various technologies |
-| [LetsExfiltrate](https://github.com/JonmarCorpuz/LetsExfiltrate) | A central repository of educational tools that help you exfiltrate data from a compromised system |
-| [LetsEnumerate](https://github.com/JonmarCorpuz/LetsEnumerate) | A central repository containing various automated tools that help authorized security professionals perform digital reconnaissance |
+| [ExfilLook](https://github.com/JonmarCorpuz/ExfilLook/tree/main) |
   
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
