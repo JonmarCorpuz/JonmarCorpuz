@@ -15,7 +15,8 @@ Jon is passionate about staying at the forefront of emerging threats and cutting
 # Projects
 
 | [ExfilLook](https://github.com/JonmarCorpuz/ExfilLook/tree/main) ![PowerShell](https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white)
- | [SymmEncrypt](https://github.com/JonmarCorpuz/SymmEncrypt) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+ | [SymmEncrypt](https://github.com/JonmarCorpuz/SymmEncrypt) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ |
   
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
