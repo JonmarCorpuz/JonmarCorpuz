@@ -15,7 +15,7 @@
 
 # Projects
 
-| [ExfilLook](https://github.com/JonmarCorpuz/ExfilLook/tree/main) | [SymmEncrypt](https://github.com/JonmarCorpuz/SymmEncrypt) |
+| [ExfilLook](https://github.com/JonmarCorpuz/ExfilLook/tree/main) | [SymmEncrypt](https://github.com/JonmarCorpuz/SymmEncrypt) | [aEnum](https://github.com/JonmarCorpuz/aEnum/tree/main) |
   
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
