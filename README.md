@@ -2,8 +2,7 @@
 
 > Jon is passionate about staying at the forefront of emerging threats and cutting-edge technologies, and actively seeks opportunities to expand his knowledge and skill set. With a strong foundation in networking and cloud computing, and a drive for continuous learning through a growth mindset, he's committed to safeguarding digital environments, fortifying defenses against malicious actors, and contributing to society's cyber security and technology advancement.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&layout=default&v=3)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>
 
 # Socials
