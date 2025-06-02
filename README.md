@@ -9,7 +9,7 @@
 </td>
 <td>
 
-<img src="https://streak-stats.demolab.com?user=JonmarCorpuz&hide_total_contributions=true" width="500"/>
+<img src="https://streak-stats.demolab.com?user=JonmarCorpuz&hide_total_contributions=true"/>
 
 </td>
   </tr>
