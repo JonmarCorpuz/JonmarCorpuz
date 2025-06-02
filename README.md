@@ -20,7 +20,7 @@ An aspiring engineer/researcher
 | [ASUS VG248QG Flat Monitor](https://amzn.to/3FhFclu) | [Samsung CR50 Curved Monitor](https://amzn.to/4dIv0PF) |
 
 **Accessories** <br>
-| [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) |
+| [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) | [Razer Mousepad](https://amzn.to/3Z9unIN) |
 
 **Flipper Zero** <br>
 | [WiFi Devboard](https://amzn.to/3ZJ91Cd) | [Protective Case](https://amzn.to/3Hfgdjk) |
