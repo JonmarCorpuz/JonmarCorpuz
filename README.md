@@ -16,11 +16,11 @@ An aspiring engineer/researcher
   
 # Homelab Setup
  
-**Monitors**
+**Monitors** <br>
 | [Vertical ASUS Monitor](https://amzn.to/3FhFclu) |
 
-**Flipper Zero**
+**Flipper Zero** <br>
 | [WiFi Devboard](https://amzn.to/3ZJ91Cd) |
 
-**Cables**
+**Cables** <br>
 | [Patch Cables](https://amzn.to/3FjsgLV)
