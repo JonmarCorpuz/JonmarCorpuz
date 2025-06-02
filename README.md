@@ -1,12 +1,10 @@
 # About Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&layout=pie)
-
 <table>
   <tr>
     <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&layout=pie" width="650"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&layout=pie" width="500"/>
 
 </td>
 <td>
