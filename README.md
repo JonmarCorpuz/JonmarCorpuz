@@ -17,13 +17,13 @@ An aspiring engineer/researcher
 # Homelab Setup
  
 **Monitors** <br>
-| [Vertical ASUS Monitor](https://amzn.to/3FhFclu) |
+| [ASUS VG248QG Monitor](https://amzn.to/3FhFclu) |
 
 **Accessories** <br>
-| [Mechanical Keyboard](https://amzn.to/4kmrjSb) |
+| [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) |
 
 **Flipper Zero** <br>
-| [WiFi Devboard](https://amzn.to/3ZJ91Cd) | [Protective Case](https://amzn.to/3Hfgdjk)
+| [WiFi Devboard](https://amzn.to/3ZJ91Cd) | [Protective Case](https://amzn.to/3Hfgdjk) |
 
 **Cables** <br>
 | [Patch Cables](https://amzn.to/3FjsgLV) |
