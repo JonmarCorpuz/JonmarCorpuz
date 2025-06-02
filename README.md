@@ -19,7 +19,7 @@ An aspiring engineer/researcher
 **Monitors** <br>
 | [Vertical ASUS Monitor](https://amzn.to/3FhFclu) |
 
-**Accessories**
+**Accessories** <br>
 | [Mechanical Keyboard](https://amzn.to/4kmrjSb) |
 
 **Flipper Zero** <br>
