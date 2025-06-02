@@ -19,8 +19,13 @@ An aspiring engineer/researcher
 **Monitors** <br>
 | [Vertical ASUS Monitor](https://amzn.to/3FhFclu) |
 
+**Accessories**
+| [Mechanical Keyboard](https://amzn.to/4kmrjSb) |
+
 **Flipper Zero** <br>
 | [WiFi Devboard](https://amzn.to/3ZJ91Cd) |
 
 **Cables** <br>
-| [Patch Cables](https://amzn.to/3FjsgLV)
+| [Patch Cables](https://amzn.to/3FjsgLV) |
+
+
