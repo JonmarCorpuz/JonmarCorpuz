@@ -9,9 +9,7 @@
 </td>
 <td>
 
-**Top Languages**  
-This chart shows the most used programming languages in JonmarCorpuz's repositories.  
-It gives an overview of the primary tech stack based on public contributions.
+<img src="https://streak-stats.demolab.com?user=JonmarCorpuz&hide_total_contributions=true" width="500"/>
 
 </td>
   </tr>
