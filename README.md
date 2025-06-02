@@ -2,6 +2,23 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&layout=pie)
 
+<table>
+  <tr>
+    <td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonmarCorpuz&layout=pie" width="1000"/>
+
+</td>
+<td>
+
+**Top Languages**  
+This chart shows the most used programming languages in JonmarCorpuz's repositories.  
+It gives an overview of the primary tech stack based on public contributions.
+
+</td>
+  </tr>
+</table>
+
 <br>
 
 # Socials
