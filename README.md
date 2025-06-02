@@ -15,4 +15,13 @@ An aspiring engineer/researcher
 | [ExfilLook](https://github.com/JonmarCorpuz/ExfilLook/tree/main) | [SymmEncrypt](https://github.com/JonmarCorpuz/SymmEncrypt) | [aEnum](https://github.com/JonmarCorpuz/aEnum/tree/main) | [pScripts](https://github.com/JonmarCorpuz/pScripts) | [autoMetheus](https://github.com/JonmarCorpuz/autoMetheus) |
   
 # Homelab Setup
+ 
+## Monitors
+| [Vertical ASUS Monitor](https://amzn.to/3FhFclu) |
 
+## Flipper Zero
+
+| [WiFi Devboard](https://amzn.to/3ZJ91Cd) |
+
+## Cables
+| [Patch Cables](https://amzn.to/3FjsgLV)
