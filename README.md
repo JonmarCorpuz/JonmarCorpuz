@@ -17,7 +17,7 @@ An aspiring engineer/researcher
 # Homelab Setup
  
 **Monitors** <br>
-| [ASUS VG248QG Monitor](https://amzn.to/3FhFclu) |
+| [ASUS VG248QG Flat Monitor](https://amzn.to/3FhFclu) | [Samsung CR50 Curved Monitor](https://amzn.to/4dIv0PF) |
 
 **Accessories** <br>
 | [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) |
