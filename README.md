@@ -23,7 +23,7 @@ An aspiring engineer/researcher
 | [Mechanical Keyboard](https://amzn.to/4kmrjSb) |
 
 **Flipper Zero** <br>
-| [WiFi Devboard](https://amzn.to/3ZJ91Cd) |
+| [WiFi Devboard](https://amzn.to/3ZJ91Cd) | [Protective Case](https://amzn.to/3Hfgdjk)
 
 **Cables** <br>
 | [Patch Cables](https://amzn.to/3FjsgLV) |
