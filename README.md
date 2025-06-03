@@ -31,4 +31,9 @@ An aspiring engineer/researcher
 **Cables** <br>
 | [Patch Cables](https://amzn.to/3FjsgLV) |
 
+<br>
 
+# Books
+
+**Cloud** <br>
+| [Google Cloud Certified Associate Cloud Engineer Study Guide](https://amzn.to/43JTqDR) |
