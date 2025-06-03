@@ -19,6 +19,9 @@ An aspiring engineer/researcher
 **Monitors** <br>
 | [ASUS VG248QG Flat Monitor](https://amzn.to/3FhFclu) | [Samsung CR50 Curved Monitor](https://amzn.to/4dIv0PF) |
 
+**Laptops**
+| [Lenovo IdeaPad 3](https://amzn.to/4mKHsT2) |
+
 **Accessories** <br>
 | [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) | [Razer Mousepad](https://amzn.to/3Z9unIN) |
 
