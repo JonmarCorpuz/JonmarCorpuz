@@ -13,7 +13,7 @@ An aspiring engineer/researcher
 # Homelab Setup
  
 **Monitors** <br>
-| [ASUS VG248QG Flat Monitor](https://amzn.to/3FhFclu) | [Samsung CR50 Curved Monitor](https://amzn.to/4dIv0PF) |
+| [ASUS VG248QG Flat Monitor](https://amzn.to/3FhFclu) | [Samsung CR50 Curved Monitor](https://amzn.to/4dIv0PF) | [ASUS ROG Strix 32" Curved Monitor](https://amzn.to/4kQhMCF) |
 
 **Laptops** <br>
 | [Lenovo IdeaPad 3](https://amzn.to/4mKHsT2) |
