@@ -31,8 +31,6 @@ An aspiring engineer/researcher
 **Cables** <br>
 | [Patch Cables](https://amzn.to/3FjsgLV) |
 
-<br>
-
 # Books
 
 **Cloud** <br>
