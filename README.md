@@ -34,7 +34,7 @@ An aspiring engineer/researcher
 # Books
 
 **Tech** <br>
-| [Google Cloud Certified Associate Cloud Engineer Study Guide](https://amzn.to/43JTqDR) |
+| [Google Cloud Certified Associate Cloud Engineer Study Guide](https://amzn.to/43JTqDR) | [Bug Bounty Bootcamp](https://amzn.to/4kRxayS) |
 
 **Finance** <br>
 | [Rich Dad Poor Dad](https://amzn.to/4mEYjGZ) | [Cashflow Quadrant](https://amzn.to/3T5o3OY) |
