@@ -23,7 +23,7 @@ An aspiring engineer/researcher
 | [Lenovo IdeaPad 3](https://amzn.to/4mKHsT2) |
 
 **Accessories** <br>
-| [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) | [Razer Mousepad](https://amzn.to/3Z9unIN) |
+| [Mechanical Keyboard](https://amzn.to/4kmrjSb) | [Logitech K380 Bluetooth Keyboard](https://amzn.to/4mKHBpy) | [Logitech G203 Mouse](https://amzn.to/4kEA7CA) | [Razer Mousepad](https://amzn.to/3Z9unIN) | 
 
 **Flipper Zero** <br>
 | [WiFi Devboard](https://amzn.to/3ZJ91Cd) | [Protective Case](https://amzn.to/3Hfgdjk) |
