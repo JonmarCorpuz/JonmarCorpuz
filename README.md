@@ -27,10 +27,13 @@ An aspiring engineer/researcher
 **Cables** <br>
 | [Patch Cables](https://amzn.to/3FjsgLV) |
 
-# Books
+# Learning Resources
 
-**Tech** <br>
-| [Google Cloud Certified Associate Cloud Engineer Study Guide](https://amzn.to/43JTqDR) | [Bug Bounty Bootcamp](https://amzn.to/4kRxayS) |
+**Cloud Computing** <br>
+| [Google Cloud Certified Associate Cloud Engineer Study Guide](https://amzn.to/43JTqDR) | 
+
+**Cybersecurity** <br>
+[Bug Bounty Bootcamp](https://amzn.to/4kRxayS) | [Hacking: The Art of Exploitation](https://amzn.to/400t534) | [Black Hat Python](https://amzn.to/4l5tDwZ) | [Black Hat Bash](https://amzn.to/4kId6zi) |
 
 **Finance** <br>
 | [Rich Dad Poor Dad](https://amzn.to/4mEYjGZ) | [Cashflow Quadrant](https://amzn.to/3T5o3OY) |
