@@ -39,7 +39,7 @@ An aspiring engineer/researcher
 | [Rich Dad Poor Dad](https://amzn.to/4mEYjGZ) | [Cashflow Quadrant](https://amzn.to/3T5o3OY) |
 
 **Leadership** <br>
-| [Start With Why](https://amzn.to/3FChP6a) |
+| [Start With Why](https://amzn.to/3FChP6a) | [How to Win Friends and Influence People](https://amzn.to/4e0D7Hx) |
 
 # Socials
 
