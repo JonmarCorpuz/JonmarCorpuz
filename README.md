@@ -33,7 +33,7 @@ An aspiring engineer/researcher
 | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://amzn.to/43JTqDR) | 
 
 **Cybersecurity** <br>
-| [Bug Bounty Bootcamp](https://amzn.to/4kRxayS) | [Hacking: The Art of Exploitation](https://amzn.to/400t534) | [Black Hat Python](https://amzn.to/4l5tDwZ) | [Black Hat Bash](https://amzn.to/4kId6zi) |
+| [Bug Bounty Bootcamp](https://amzn.to/4kRxayS) | [Hacking: The Art of Exploitation](https://amzn.to/400t534) | [Black Hat Python](https://amzn.to/4l5tDwZ) | [Black Hat Bash](https://amzn.to/4kId6zi) | [Evasive Malware](https://amzn.to/4kZHSTI)
 
 **Finance** <br>
 | [Rich Dad Poor Dad](https://amzn.to/4mEYjGZ) | [Cashflow Quadrant](https://amzn.to/3T5o3OY) |
