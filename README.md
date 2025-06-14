@@ -41,6 +41,9 @@ An aspiring engineer/researcher
 **Leadership** <br>
 | [Start With Why](https://amzn.to/3FChP6a) | [How to Win Friends and Influence People](https://amzn.to/4e0D7Hx) |
 
+**Second Brain** <br>
+| [knowledgeVault](https://github.com/JonmarCorpuz/knowledgeVault) |
+
 # Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JonmarCorpuz) [![TryHackMe](https://img.shields.io/badge/TryHackMe-E60000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JonmarCorpuz) 
